@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Woo
-- 👀 I’m interested in becoming more proficient coder!
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on entry level Python projects!
 - 📫 How to reach me hanwj100@gmail.com
 
 <!---
